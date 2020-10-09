@@ -1,5 +1,5 @@
 # Kelompok numerik
-Anggota <br>`Abizard` `Adam` `Adit Pramudya` `Agus` `Fadhil` `Lutfi` `Kerrel` `Kiki` `Kunaifi` `Vincent`
+Anggota <br>`Abidzard` `Adam` `Adit Pramudya` `Agus` `Fadhil` `Lutfi` `Kerrel` `Kiki` `Kunaifi` `Vincent`
 
 
 # Tugas 1
