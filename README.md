@@ -4,7 +4,7 @@ Anggota <br>`Abizard` `Adam` `Adit Pramudya` `Agus` `Fadhil` `Lutfi` `Kerrel` `K
 
 # Tugas 1
 PDF (__[lihat](https://drive.google.com/file/d/10psXWNHH3XR_woTxb_8XYy4l7nT61ARZ/view?usp=sharing)__)
-21-30 no. 9 <br>
+Halaman 21-30 No. 9 <br>
 Tenggat 1 minggu setelah UTS
 
 # Tugas 2
@@ -12,4 +12,4 @@ PDF (__[lihat](https://drive.google.com/file/d/10psXWNHH3XR_woTxb_8XYy4l7nT61ARZ
 Tenggat 2 minggu setelah UTS
 
 # Download
-Download github [di sini](https://central.github.com/deployments/desktop/desktop/latest/win32)
+Download github __[di sini](https://central.github.com/deployments/desktop/desktop/latest/win32)__
