@@ -4,7 +4,7 @@ Anggota <br>`Abidzard` `Adam` `Adit Pramudya` `Agus` `Fadhil` `Lutfi` `Kerrel` `
 
 # Tugas 1
 PDF (__[lihat](https://drive.google.com/file/d/10psXWNHH3XR_woTxb_8XYy4l7nT61ARZ/view?usp=sharing)__)
-Halaman 22 No. 9 <br>
+Halaman 51 No. 9 <br>
 Tenggat 1 minggu setelah UTS
 
 # Tugas 2
