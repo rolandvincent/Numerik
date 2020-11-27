@@ -1,0 +1,11 @@
+clear all;
+A = [1,1,-2;1,10,4;-2,4,24];
+b = [-3;33;78];
+x = CholeskyMethod(A,b);
+disp('Cholesky Method dari Ax = b');
+disp('A =');
+disp(A);
+disp('b =');
+disp(b);
+disp('x =');
+disp(x);
