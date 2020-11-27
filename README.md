@@ -29,3 +29,6 @@ Tengat 5 minggu setelah UTS
 
 # Download
 Download github __[di sini](https://central.github.com/deployments/desktop/desktop/latest/win32)__
+
+# Link Pengumpulan Tugas
+> https://bit.ly/TugasNumerik
