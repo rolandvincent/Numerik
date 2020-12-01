@@ -32,8 +32,7 @@ function x = CholeskyMethod(A,b)
         % x2 = 6 / 3
         % x2 = 2
         % Loop i = 1
-        % x1 = (-3 - ([1,-2] * [2;3])) / 1
-        % x1 = 1 / 1
-        % x1 = 1
+        % x1 = (-3 - [2,-2] * [2;3]) / 1
+        % x1 = 
     end
 end
