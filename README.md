@@ -1,4 +1,4 @@
-# Kelompok numerik
+# Kelompok Analisis dan Metode Numerik
 Anggota <br>`Abidzard` `Adam` `Adit Pramudya` `Agus` `Fadhil` `Lutfi` `Kerrel` `Kiki` `Kunaifi` `Vincent`
 
 
