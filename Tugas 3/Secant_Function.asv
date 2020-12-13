@@ -16,8 +16,7 @@ if isempty(N), N = 20; end
 if isempty(tol), tol = 1e-4; end
 f = matlabFunction(f);
 x = zeros(1, N+1); % Pre-allocate
-disp('x1=0');
-disp('x2=1');
+x1
 for n = 2:N,
     if x1 == x2,
         r='failure';
