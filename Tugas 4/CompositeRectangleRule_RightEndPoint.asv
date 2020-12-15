@@ -1,9 +1,0 @@
-function [ result ] = CompositeRectangleRule_RightEndPoint( f, n, a, b )
-    h = (b - a) / n;
-    total = 0;
-    f = matlabFunction(f);
-    for N=1:n
-        total = total + f(a+h*N);
-    end
-    result = h * total;
-end
