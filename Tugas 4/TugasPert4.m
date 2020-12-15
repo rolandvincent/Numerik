@@ -12,7 +12,6 @@ disp(E);
 disp('Right End Point');
 [E, result] = CompositeRectangleRule_RightEndPoint(f,n,a,b);
 disp(result);
-<<<<<<< HEAD
 disp('Dengan error Left End Point sekitar');
 disp(E);
 disp('Mid End Point');
