@@ -1,0 +1,12 @@
+F = sym('1/(x+2)');
+disp('Composite Triangle Rule');
+disp('Hasil integral dari f(x)=(x+1)*exp(x) dengan interval bawah 0.4 dan interval atas 1');
+disp('Left End Point');
+[result] = CompositeTriangleRule_LeftEndPoint(F,8,-1,1);
+disp(result);
+disp('Right End Point');
+[result] = CompositeTriangleRule_RightEndPoint(F,8,-1,1);
+disp(result);
+disp('Mid End Point');
+[result] = CompositeTriangleRule_MidEndPoint(F,8,-1,1);
+disp(result);

@@ -1,0 +1,9 @@
+function [ result ] = CompositeTriangleRule_MidEndPoint( f, n, a, b )
+    h = (b - a) / n;
+    t_fx = 0;
+    f = matlabFunction(f);
+    for N=0:n-1
+        t_fx = t_fx + f(a+(h)*N);
+    end
+    result = h * t_fx;
+end

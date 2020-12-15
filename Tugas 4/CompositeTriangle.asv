@@ -1,0 +1,9 @@
+function [ result ] = CompositeTriangleRule( f, n, a, b )
+h = (b - a) / n;
+t_fx = 0;
+for N=1:n
+    
+end
+result = 0;
+end
+
