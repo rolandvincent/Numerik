@@ -15,6 +15,6 @@ function [ E, result ] = CompositeRectangleRule_RightEndPoint( f, n, a, b )
     else
         ft=fb;
     end
-    E = h*(1/2*(b-a)*ft); % menghitung error dari left and right end point;
+    E = h*abs(1/2*(b-a)*ft); % menghitung error dari left and right end point;
     result = h * total;
 end

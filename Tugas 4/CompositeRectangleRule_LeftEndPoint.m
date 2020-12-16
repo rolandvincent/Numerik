@@ -8,14 +8,14 @@ function [ E, result ] = CompositeRectangleRule_LeftEndPoint( f, n, a, b )
     end
     % menghitung error
     K2=matlabFunction(diff(F)); % mencari turunan pertama.
-    fa = K2(a); % memasukkan nilai a ke turunan kedua fungsi
-    fb = K2(b); % memasukkan nilai b ke turunan kedua fungsi
+    fa = K2(a); % memasukkan nilai a ke turunan pertama fungsi
+    fb = K2(b); % memasukkan nilai b ke turunan pertama fungsi
     if fa>fb % mencari yang terbesar
         ft=fa;
     else
         ft=fb;
     end
-    E = h*(1/2*(b-a)*ft); % menghitung error dari left and right end point;
+    E = h*abs(1/2*(b-a)*ft); % menghitung error dari left and right end point;
     result = h * total;
 end
 
