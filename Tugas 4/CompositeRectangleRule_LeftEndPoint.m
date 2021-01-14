@@ -1,5 +1,8 @@
 function [ E, result ] = CompositeRectangleRule_LeftEndPoint( f, n, a, b )
     h = (b - a) / n;
+    % b = 1
+    % a = 0.4
+    % h = 0.075
     total = 0;
     F = f;
     f = matlabFunction(f);
@@ -15,7 +18,7 @@ function [ E, result ] = CompositeRectangleRule_LeftEndPoint( f, n, a, b )
     else
         ft=fb;
     end
-    E = h*abs(1/2*(b-a)*ft); % menghitung error dari left and right end point;
+    E = abs(h*(1/2*(b-a)*ft)); % menghitung error dari left and right end point;
     result = h * total;
 end
 

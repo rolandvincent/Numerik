@@ -17,6 +17,6 @@ function [ E, result ] = CompositeRectangleRule_MidEndPoint( f, n, a, b )
     else
         ft=fb;
     end
-    E = h^2*abs(1/24*(b-a)*ft); % menghitung error dari mid end point;
+    E = abs(h^2*(1/24*(b-a)*ft)); % menghitung error dari mid end point;
     result = h * total;
 end
